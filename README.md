@@ -1,1 +1,1 @@
-# Plinko
+Plinko by Kartik
